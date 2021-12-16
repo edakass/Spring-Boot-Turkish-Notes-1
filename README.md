@@ -89,11 +89,10 @@
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/61595808/146388019-6392148a-39d1-4902-89d6-384a653638f3.png)
-
 <br>
 <br>
 <br>
-Medium'da paylaşmış olduğum örneklerim :
+**Medium'da paylaşmış olduğum örneklerim : **
 <br>
 _SpringFramework Thymeleaf Bootstrap Student Crud Example_  - https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184
 <br>
