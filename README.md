@@ -26,37 +26,54 @@
 <br>
 ![image](https://user-images.githubusercontent.com/61595808/146385828-801adb79-cb63-4fcb-b6ef-d688210afb0b.png)
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146385935-f379ae27-049b-4f41-ae24-9a32330f8615.png)
+<br>
 <br>
 **Hangi versiyonu seçeceğinize karar verip tıklıyorsunuz.Ben _5.1.3_ seçiyorum ve tıklıyorum.Tıkladıktan sonra bu ekran karşıma çıkıyor,ben Maven kullandığım için Maven'i seçiyorum.**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146386255-75dc0b6e-fd36-4d81-ba4f-2f918d2d3440.png)
+<br>
 <br>
 **Kopyalandıktan sonra intelliJ'deki projemde _pom.xml_  <dependencies> ... </dependencies> arasına yapıştırıyoruz.**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146386821-44107cd5-0c29-4dc7-9166-e5b6ca650ccd.png)
+<br>
 <br>
 **Ben daha önce eklediğim için hata vermiyor.Ama var olmasaydı kırmızı olacaktı örnek olarak şu anda ihtiyacım olmayan kütüphaneyi _pom.xml_ e yapıştırdım.**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146387145-c1306e54-f622-41b3-9492-e36099e9afbf.png)
+<br>
 <br>
 **Bu şekilde görünecek idi.**
 <br>
+<br>
 **Bundan sonraki adımımız**
+<br>
 <br>
 **_pom.xml_ sağ tıklayıp**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146387455-807cdbab-8500-4c26-b607-f81196798ac0.png)
+<br>
 <br>
 **Bu ekran karşımıza geliyor burada Maven'e tıklıyoruz.**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146387570-a1f0bba1-a385-4dfe-a7d7-0d11ab03d00e.png)
+<br>
 <br>
 ![image](https://user-images.githubusercontent.com/61595808/146387661-ad199b2a-57cd-430b-abdc-cfe2403afd0b.png)
 <br>
+<br>
 **_Reload project_ diyoruz.**
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/61595808/146387936-220c1ac2-6954-47d5-96f4-a5d65ab88896.png)
+<br>
 <br>
 **Ve yüklenme tamamlanıyor.**
 <br>
