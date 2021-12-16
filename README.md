@@ -92,8 +92,8 @@
 <br>
 <br>
 <br>
-##Medium'da paylaşmış olduğum örneklerim :
+Medium'da paylaşmış olduğum örneklerim :
 <br>
-##SpringFramework Thymeleaf Bootstrap Student Crud Example  - https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184
+SpringFramework Thymeleaf Bootstrap Student Crud Example  - https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184
 <br>
-##Spring Boot Java MVC Thymeleaf ile Öğrenci Kaydetme Örneği   -https://medium.com/@bornthiseda/spring-boot-java-thymeleaf-ile-%C3%B6%C4%9Frenci-kaydetme-%C3%B6rne%C4%9Fi-edaf316dfa81?p=edaf316dfa81
+Spring Boot Java MVC Thymeleaf ile Öğrenci Kaydetme Örneği   -https://medium.com/@bornthiseda/spring-boot-java-thymeleaf-ile-%C3%B6%C4%9Frenci-kaydetme-%C3%B6rne%C4%9Fi-edaf316dfa81?p=edaf316dfa81
