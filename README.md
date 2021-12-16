@@ -9,12 +9,12 @@
  [Medium](https://medium.com/@bornthiseda) ve [Youtube](https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg/videos) adreslerime bu linklerden ulaşabilirsiniz.
  <br>
  <br>
- Bir süredir Spring Boot çalışıyorum,çalışırken öğrendiklerimide paylaşıyorum.Bu repoda da Türkçe notlarımı paylaşacağım.
+ **Bir süredir Spring Boot çalışıyorum,çalışırken öğrendiklerimide paylaşıyorum.Bu repoda da Türkçe notlarımı paylaşacağım.
  <br>
  Medium ve Youtube hesaplarımda da paylaşım yapmıştım.Amacım daha çok paylaşım yapmak ve insanlarada faydamın olması.
 <br>
 <br>
-Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri yüklüyoruz.
+Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri yüklüyoruz _Add Dependencies_ kısmından.
 <br>
 Generate diyerek de indirmiş oluyoruz.
 <br>
@@ -26,4 +26,7 @@ Description:projenin kısa açıklamasıdır
 <br>
 Jar:bütün dosyalarını içinde barındıran özel bir paket yapısı
 <br>
-War:bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır
+War:bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır.
+
+
+**
