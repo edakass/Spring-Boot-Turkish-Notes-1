@@ -1,6 +1,6 @@
 # Spring_Boot_Turkish
 
->Pes ettiğin an bahane aramaya başlarsın.Başarabildiğini düşündüğün an bir yolunu bulursun. -RDTK
+>**Pes ettiğin an bahane aramaya başlarsın.Başarabildiğini düşündüğün an bir yolunu bulursun.** _-RDTK_
 <br>
 
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
@@ -14,9 +14,8 @@
  Medium ve Youtube hesaplarımda da paylaşım yapmıştım.Amacım daha çok paylaşım yapmak ve insanlarada faydamın olması.
 <br>
 <br>
-Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri yüklüyoruz _Add Dependencies_ kısmından.
+Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri _Add Dependencies_ kısmından yüklüyoruz.Generate diyerek de indirmiş oluyoruz.
 <br>
-Generate diyerek de indirmiş oluyoruz.
 <br>
 Eğer ki daha sonra başka bir kütüphaneye ihtiyacımız olursa ise(ben Maven kullanıyorum) [Maven](https://mvnrepository.com/)  sitesine girip arama yaptıktan sonra 
 <br>
