@@ -26,7 +26,4 @@ Description:projenin kısa açıklamasıdır
 <br>
 Jar:bütün dosyalarını içinde barındıran özel bir paket yapısı
 <br>
-War:bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır.
-
-
-**
+War:bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır.**
