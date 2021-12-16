@@ -8,6 +8,8 @@
 
  [Medium](https://medium.com/@bornthiseda) ve [Youtube](https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg/videos) adreslerime bu linklerden ulaşabilirsiniz.
  <br>
+ <br>
+ <br>
  Bir süredir Spring Boot çalışıyorum,çalışırken öğrendiklerimide paylaşıyorum.Bu repoda da Türkçe notlarımı paylaşacağım.
  <br>
  Medium ve Youtube hesaplarımda da paylaşım yapmıştım.Amacım daha çok paylaşım yapmak ve insanlarada faydam olsun isterim.
