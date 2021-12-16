@@ -9,7 +9,7 @@
  **_[Medium](https://medium.com/@bornthiseda)_ ve _[Youtube](https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg/videos)_ adreslerime bu linklerden ulaşabilirsiniz.**
  <br>
  <br>
- **Bir süredir Spring Boot çalışıyorum,çalışırken öğrendiklerimide paylaşıyorum.Bu repoda da Türkçe notlarımı paylaşacağım.**
+ **Bir süredir Spring Boot(Java) çalışıyorum,çalışırken öğrendiklerimide paylaşıyorum.Bu repoda da Türkçe notlarımı paylaşacağım.**
  <br>
  **Medium ve Youtube hesaplarımda da paylaşım yapmıştım.Amacım daha çok paylaşım yapmak ve insanlarada faydamın olması.**
 <br>
