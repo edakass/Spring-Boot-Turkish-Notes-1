@@ -109,8 +109,6 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm
 <br>
 https://thecodeprogram.com/java-springboot-nedir-
 <br>
-https://alicanakkus.github.io/blog/spring-platform/spring-mvc-tutorial/spring-mvc-controller
-<br>
 https://kodedu.com/2014/09/jpa-2-1-entity-graph/
 <br>
 https://blog.burakkutbay.com/spring-boot-dersleri.html/
@@ -122,5 +120,13 @@ https://medium.com/kodgemisi/spring-boot-ile-%C3%B6rnek-web-uygulamas%C4%B1-914c
 https://medium.com/kodluyoruz/spring-boot-kurulumu-ve-i%CC%87lk-proje-70c23b1dbe0d
 <br>
 https://medium.com/@springbootturkiye
+<br>
+https://www.youtube.com/watch?v=5Bj1ZEvsTWI
+<br>
+https://www.youtube.com/user/Kindson01
+<br>
+https://www.youtube.com/channel/UC1Be9fnFTlcsUlejgfqag0g
+<br>
+https://www.youtube.com/user/codejavanet
 <br>
 
