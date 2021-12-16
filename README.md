@@ -17,6 +17,15 @@
 **Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri _Add Dependencies_ kısmından yüklüyoruz.Generate diyerek de indirmiş oluyoruz.**
 <br>
 <br>
+**Artifact: jar yada war paketinin ismini belirler**
+<br>
+**Description: projenin kısa açıklamasıdır**
+<br>
+**Jar: bütün dosyalarını içinde barındıran özel bir paket yapısı**
+<br>
+**War: bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır.**
+<br>
+<br>
 **Eğer ki daha sonra başka bir kütüphaneye ihtiyacımız olursa ise(ben Maven kullanıyorum) [Maven](https://mvnrepository.com/)  sitesine giriyoruz ve ihtiyacımız olan kütüphaneyi aratıyoruz.**
 <br>
 **Mesela örnek olarak benim projemde "webjar bootstrap" kütüphanesine ihtiyacım var onun için gerekli olan adımlar:**
@@ -83,10 +92,4 @@
 
 <br>
 <br>
-**Artifact:jar yada war paketinin ismini belirler**
-<br>
-**Description:projenin kısa açıklamasıdır**
-<br>
-**Jar:bütün dosyalarını içinde barındıran özel bir paket yapısı**
-<br>
-**War:bir web projesi için html,javascript dosyaları gibi önyüz tarafından diğer dosyaları içinde barındırır.**
+
