@@ -95,6 +95,6 @@
 <br>
 **Medium'da paylaşmış olduğum örneklerim **
 <br>
-[Referans bir isim](https://medium.com/@bornthiseda/spring-boot-java-thymeleaf-ile-%C3%B6%C4%9Frenci-kaydetme-%C3%B6rne%C4%9Fi-edaf316dfa81?p=edaf316dfa81)  
+[Referans bir isim](medium.com/@bornthiseda/spring-boot-java-thymeleaf-ile-%C3%B6%C4%9Frenci-kaydetme-%C3%B6rne%C4%9Fi-edaf316dfa81?p=edaf316dfa81)  
 <br>
-ve  [Referans bir isim](https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184)
+ve  [Referans bir isim](medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184)
