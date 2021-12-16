@@ -55,7 +55,7 @@
 **Bundan sonraki adımımız**
 <br>
 <br>
-**_pom.xml_ sağ tıklayıp**
+**_pom.xml_ sağ tıkladıktan sonra**
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/61595808/146387455-807cdbab-8500-4c26-b607-f81196798ac0.png)
