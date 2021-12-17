@@ -143,3 +143,5 @@ https://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html
 <br>
 https://mrpehlivan.medium.com/nedir-bu-optional-861f5bededb9
 <br>
+https://kodedu.com/2014/09/jpa-2-1-entity-graph/
+<br>
