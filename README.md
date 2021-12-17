@@ -137,3 +137,7 @@ https://medium.com/@sumeyyeakayy?p=70c23b1dbe0d
 <br>
 https://docs.oracle.com/javaee/6/api/javax/persistence/OneToMany.html
 <br>
+https://www.thymeleaf.org/doc/articles/standarddialect5minutes.html
+<br>
+https://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html
+<br>
