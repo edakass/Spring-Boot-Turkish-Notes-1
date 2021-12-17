@@ -135,4 +135,5 @@ https://ichi.pro/tr/spring-boot-ile-project-lombok-nasil-kullanilir-189686112864
 <br>
 https://medium.com/@sumeyyeakayy?p=70c23b1dbe0d
 <br>
-
+https://docs.oracle.com/javaee/6/api/javax/persistence/OneToMany.html
+<br>
