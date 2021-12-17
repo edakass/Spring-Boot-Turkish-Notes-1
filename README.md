@@ -14,7 +14,7 @@
  Medium ve Youtube hesaplarımda da paylaşım yapmıştım.Amacım daha çok paylaşım yapmak ve insanlarada faydamın olması.
 <br>
 <br>
-Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli kütüphanleri _Add Dependencies_ kısmından yüklüyoruz.Generate diyerek de indirmiş oluyoruz.
+Bir Spring projesi için [SpringInitializr](https://start.spring.io/) 'dan gerekli paketleri _Add Dependencies_ kısmından yüklüyoruz.Generate diyerek de indirmiş oluyoruz.
 <br>
 <br>
 Artifact: jar yada war paketinin ismini belirler
