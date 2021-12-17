@@ -133,4 +133,6 @@ https://www.onbirkod.com/spring-boot-ile-database-uygulamasi-gelistirmek/
 <br>
 https://ichi.pro/tr/spring-boot-ile-project-lombok-nasil-kullanilir-189686112864209
 <br>
+https://medium.com/@sumeyyeakayy?p=70c23b1dbe0d
+<br>
 
