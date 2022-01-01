@@ -92,6 +92,24 @@ Ve yüklenme tamamlanıyor.
 <br>
 <br>
 <br>
+--->Veritabanında query kısmına gidip "desc user;" yazdığımızda,user tablomuzun özellikleri geliyor.desc'nin açılımı ise  describe. Yapmak istediğimiz işlem ise <describe table>
+<br>
+<br>
+--->package isimleri küçük harfle olmalı,mesela "controller" bu şekilde olmalı.
+<br>
+<br>
+--->İncelemem gereken kaynaklar:
+<br>
+1: https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+<br>
+2: https://google.github.io/styleguide/javaguide.html
+<br>
+<br>
+-->Authenticaiton:Kimlik Doğrulama
+<br>
+-->Authorization:Yetki Kontrolü
+<br>
+<br>
 Medium'da paylaşmış olduğum örneklerim :
 <br>
 SpringFramework Thymeleaf Bootstrap Student Crud Example  - https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184
